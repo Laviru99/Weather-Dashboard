@@ -1,0 +1,25 @@
+/* Name = H.M.Laviru Githmal Herath */
+/* UoW ID = 2064801 */
+
+body{
+
+  padding: 10px;
+  display: flex;
+  background-image:url(https://www.pixelstalk.net/wp-content/uploads/2016/07/Weather-Desktop-Wallpaper.jpg);
+  box-sizing: border-box;
+  margin-top: 16vh;
+
+}
+    
+.col {
+
+  width: 250px;
+  height: 370px;
+  background-color: rgb(234, 227, 21);
+  padding: 80px 20px 20px 20px;
+  margin: auto;
+  border-radius: 10px;
+  opacity: 0.90;
+  
+      
+}
